@@ -13,7 +13,7 @@ This repository contains a deep learning model built with TensorFlow and Keras t
 
 1. Clone the repository:
    
-   git clone https://github.com/your-repo/deepfake-detection-cnn.git
+   git clone https://github.com/PradheebanAnandhan/deep_fake_detection.git
 
 2. Install the required dependencies:
    
